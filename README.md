@@ -1,4 +1,4 @@
-Hi 👋 My name is Sol
+Hi 👋 My name is Sol Youn
 ====================
 
 Fullstack Software Dev
